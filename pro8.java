@@ -20,7 +20,8 @@ public class pro8 {
 					      
 					}
 				}
-				System.out.println(minValue+maxValue);
+				System.out.println(minValue);
+				System.out.println(maxValue);
 			}
 			
 		}
