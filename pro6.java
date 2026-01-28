@@ -17,9 +17,10 @@ public class pro6 {
 				minValue=sum;
              for(int z=i;z<k+i;z++) {
             	 list.add(arr[z]);
-             }
-		  }
+            }
+		  }	
 		}
+		
 		System.out.println(minValue);
 		System.out.println(list);
 		
